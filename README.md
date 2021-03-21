@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yusufaktog
-- 👀 I’m interested in Back-end developing, game programming
+- 👀 I’m interested in Back-end development, game programming
 - 🌱 I’m currently learning Java, Pyhton and AI technologies
 - 📫 How to reach me yusufaktok@gmail.com
 
