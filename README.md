@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufaktog
 - 👀 I’m interested in Back-end development, game programming
-- 🌱 I’m currently learning Java, Pyhton and AI technologies
+- 🌱 I’m currently learning Java Spring, Flutter and AI Technologies
 - 📫 How to reach me yusufaktok@gmail.com
 
 <!---
